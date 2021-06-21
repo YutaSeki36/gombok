@@ -1,2 +1,2 @@
 # gomok
-Accessor generation library for Go structs like Lombol
+Accessor generation library for Go structs like Lombok
